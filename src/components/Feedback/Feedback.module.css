@@ -1,0 +1,10 @@
+.FeedbackBtn {
+  margin: 10px;
+  background-color: cadetblue;
+  color: aliceblue;
+  padding: 15px;
+  min-width: 150px;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+}

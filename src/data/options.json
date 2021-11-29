@@ -1,0 +1,14 @@
+[
+    {"name": "good",
+        "id": 1
+        
+    },
+    {"name": "neutral",
+        "id": 2
+        
+    },
+    {"name": "bad",
+        "id": 3
+        
+    }
+]
